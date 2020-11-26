@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png">
+  <img src="https://github.com/jillukowicz/aws-playground/blob/master/aws.png">
 </p>
 <br/>
 
