@@ -4,7 +4,7 @@
 </p>
 <br/>
 
-# Awesome Playground 
+# AWS Playground 
 
 All the things that happened in the meantime...
 
